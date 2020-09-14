@@ -1,0 +1,3 @@
+﻿  mian.c
+F:\LearnC++\learnc\Projects\001_TCP_Socket\class_client_tcp\class_client_tcp\class_client_tcp\src\mian.c(50,28): warning C4133: “函数”: 从“sockaddr_in *”到“const sockaddr *”的类型不兼容
+  class_client_tcp.vcxproj -> F:\LearnC++\learnc\Projects\001_TCP_Socket\class_client_tcp\class_client_tcp\Debug\class_client_tcp.exe
