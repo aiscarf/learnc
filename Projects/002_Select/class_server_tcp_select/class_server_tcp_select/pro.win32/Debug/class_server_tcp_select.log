@@ -1,0 +1,3 @@
+﻿  main.c
+F:\LearnC++\learnc\Projects\002_Select\class_server_tcp_select\class_server_tcp_select\src\main.c(111,59): warning C4090: “函数”: 不同的“const”限定符
+  class_server_tcp_select.vcxproj -> F:\LearnC++\learnc\Projects\002_Select\class_server_tcp_select\Debug\class_server_tcp_select.exe
