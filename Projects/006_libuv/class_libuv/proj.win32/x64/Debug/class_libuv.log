@@ -1,0 +1,99 @@
+﻿  fs-poll.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\fs-poll.c(188,31): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\fs-poll.c(191,38): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+  inet.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\inet.c(171,20): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\inet.c(198,1): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\inet.c(294,1): warning C4244: “初始化”: 从“__int64”转换到“const int”，可能丢失数据
+  threadpool.c
+  uv-common.c
+  version.c
+  async.c
+  core.c
+  dl.c
+  error.c
+  fs-event.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs-event.c(84,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs-event.c(402,62): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs-event.c(409,43): warning C4477: “_snwprintf”: 格式字符串“%.*s”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs-event.c(409,43): message : 此参数用作精度
+  fs.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(185,44): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(199,48): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(921,52): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(953,40): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(955,39): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(1328,66): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(1515,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(1572,79): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(1573,77): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(1601,74): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(1602,72): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(1916,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(1930,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(1966,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2002,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2023,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2046,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2066,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2086,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2109,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2130,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2153,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2174,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2199,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2220,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2234,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2254,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2274,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2288,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2309,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2323,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2337,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2354,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2367,38): warning C4267: “=”: 从“size_t”转换到“ULONG”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2374,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2400,21): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2422,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2439,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2463,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\fs.c(2481,23): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+  getaddrinfo.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\getaddrinfo.c(127,50): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  getnameinfo.c
+  handle.c
+  loop-watcher.c
+  pipe.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\pipe.c(1053,68): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\pipe.c(1072,68): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\pipe.c(2064,54): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  poll.c
+  process-stdio.c
+  process.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\process.c(628,16): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\process.c(748,44): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\process.c(784,45): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\process.c(803,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  req.c
+  正在生成代码...
+  正在编译...
+  signal.c
+  snprintf.c
+  stream.c
+  tcp.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\tcp.c(369,68): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\tcp.c(388,68): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+  thread.c
+  timer.c
+  tty.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\tty.c(911,1): warning C4244: “初始化”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\tty.c(2069,37): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  udp.c
+  util.c
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\util.c(1147,40): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\3rd\libuv\src\win\util.c(1222,38): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  winapi.c
+  winsock.c
+  main.c
+  正在生成代码...
+  class_libuv.vcxproj -> F:\LearnC++\learnc\Projects\006_libuv\class_libuv\proj.win32\x64\Debug\class_libuv.exe

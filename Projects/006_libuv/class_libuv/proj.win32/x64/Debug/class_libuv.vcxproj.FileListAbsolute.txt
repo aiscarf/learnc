@@ -1,0 +1,2 @@
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\proj.win32\x64\Debug\class_libuv.exe
+F:\LearnC++\learnc\Projects\006_libuv\class_libuv\proj.win32\x64\Debug\class_libuv.pdb
