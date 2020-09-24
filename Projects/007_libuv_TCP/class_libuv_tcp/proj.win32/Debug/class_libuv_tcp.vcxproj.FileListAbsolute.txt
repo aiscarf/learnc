@@ -1,0 +1,2 @@
+F:\LearnC++\learnc\Projects\007_libuv_TCP\class_libuv_tcp\proj.win32\Debug\class_libuv_tcp.exe
+F:\LearnC++\learnc\Projects\007_libuv_TCP\class_libuv_tcp\proj.win32\Debug\class_libuv_tcp.pdb
