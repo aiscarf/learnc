@@ -58,7 +58,8 @@ int main(int argc, char** argv) {
 
 	char buf[11];
 	memset(buf, 0, 11);
-	//send(s, "Hello", 5, 0);
+	send(s, "Hello", 5, 0);
+	printf("send...\n");
 	recv(s, buf, 5, 0);
 	printf("recv: %s\n", buf);
 
