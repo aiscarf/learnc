@@ -1,0 +1,2 @@
+F:\LearnC++\learnc\Projects\moba_server\build\proj.win32\x64\Debug\moba_gameserver.exe
+F:\LearnC++\learnc\Projects\moba_server\build\proj.win32\x64\Debug\moba_gameserver.pdb
