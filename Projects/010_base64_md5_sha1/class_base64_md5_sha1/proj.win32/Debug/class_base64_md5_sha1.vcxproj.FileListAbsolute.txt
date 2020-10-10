@@ -1,0 +1,2 @@
+F:\LearnC++\learnc\Projects\010_base64_md5_sha1\class_base64_md5_sha1\proj.win32\Debug\class_base64_md5_sha1.exe
+F:\LearnC++\learnc\Projects\010_base64_md5_sha1\class_base64_md5_sha1\proj.win32\Debug\class_base64_md5_sha1.pdb
