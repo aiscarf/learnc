@@ -1,0 +1,2 @@
+F:\LearnC++\learnc\Projects\011_http_parser\class_http_parser\proj.win32\Debug\class_http_parser.exe
+F:\LearnC++\learnc\Projects\011_http_parser\class_http_parser\proj.win32\Debug\class_http_parser.pdb
