@@ -1,0 +1,2 @@
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\proj.win32\Debug\class_mjson.exe
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\proj.win32\Debug\class_mjson.pdb

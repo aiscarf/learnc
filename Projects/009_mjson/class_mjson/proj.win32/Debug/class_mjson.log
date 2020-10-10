@@ -1,0 +1,12 @@
+﻿  json.c
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\3rd\mjson\json.c(132,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\3rd\mjson\json.c(281,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\3rd\mjson\json.c(313,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\3rd\mjson\json.c(1190,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\3rd\mjson\json.c(1338,24): warning C4477: “fprintf”: 格式字符串“%lX”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“int64_t”
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\3rd\mjson\json.c(1338,24): message : 请考虑在格式字符串中使用“%llX”
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\3rd\mjson\json.c(1338,24): message : 请考虑在格式字符串中使用“%I64X”
+  main.c
+F:\LearnC++\learnc\Projects\009_mjson\class_mjson\src\main.c(77,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  class_mjson.vcxproj -> F:\LearnC++\learnc\Projects\009_mjson\class_mjson\proj.win32\Debug\class_mjson.exe
