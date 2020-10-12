@@ -1,0 +1,2 @@
+F:\LearnC++\learnc\Projects\012_libuv_WebSocket\class_libuv_websocket\proj.win32\x64\Debug\class_libuv_websocket.exe
+F:\LearnC++\learnc\Projects\012_libuv_WebSocket\class_libuv_websocket\proj.win32\x64\Debug\class_libuv_websocket.pdb
