@@ -1,0 +1,2 @@
+F:\LearnC++\learnc\Projects\013_libuv_http_server\class_libuv_http_server\proj.win32\Debug\class_libuv_http_server.exe
+F:\LearnC++\learnc\Projects\013_libuv_http_server\class_libuv_http_server\proj.win32\Debug\class_libuv_http_server.pdb
