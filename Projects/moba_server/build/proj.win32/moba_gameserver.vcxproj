@@ -99,7 +99,7 @@
       <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>F:\LearnC++\learnc\Projects\moba_server\3rd\libuv\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\3rd\libuv\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -140,6 +140,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\3rd\crypto\base64_decoder.c" />
+    <ClCompile Include="..\..\3rd\crypto\base64_encoder.c" />
+    <ClCompile Include="..\..\3rd\crypto\md5.c" />
+    <ClCompile Include="..\..\3rd\crypto\sha1.c" />
+    <ClCompile Include="..\..\3rd\http_parser\http_parser.c" />
     <ClCompile Include="..\..\3rd\libuv\src\fs-poll.c" />
     <ClCompile Include="..\..\3rd\libuv\src\inet.c" />
     <ClCompile Include="..\..\3rd\libuv\src\threadpool.c" />
@@ -178,6 +183,11 @@
     <ClCompile Include="..\..\utils\cache_alloc.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\3rd\crypto\base64_decoder.h" />
+    <ClInclude Include="..\..\3rd\crypto\base64_encoder.h" />
+    <ClInclude Include="..\..\3rd\crypto\md5.h" />
+    <ClInclude Include="..\..\3rd\crypto\sha1.h" />
+    <ClInclude Include="..\..\3rd\http_parser\http_parser.h" />
     <ClInclude Include="..\..\3rd\libuv\include\android-ifaddrs.h" />
     <ClInclude Include="..\..\3rd\libuv\include\pthread-barrier.h" />
     <ClInclude Include="..\..\3rd\libuv\include\stdint-msvc2008.h" />
